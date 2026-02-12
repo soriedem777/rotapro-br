@@ -1,0 +1,8 @@
+{
+  "name": "RotaPro - Planejador Eficiente",
+  "description": "Um planejador de rotas de uso livre e eficiente. Organize suas paradas automaticamente usando geolocalização.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
